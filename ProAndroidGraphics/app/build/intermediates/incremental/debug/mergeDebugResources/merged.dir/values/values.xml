@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="anim_intro_desc">Splash Screen Animation</string>
+    <string name="app_name">Graphics Design</string>
+    <string name="bmi">Image of Currently Bookmarked Page</string>
+    <string name="bmu_title">BOOKMARKING UTILITY</string>
+    <string name="bookmark_text">Current Bookmark Page</string>
+    <string name="bookmark_utility">Bookmark Utility</string>
+    <string name="chap_four">Chapter Four: Vector Animation</string>
+    <string name="chap_one">Chapter One: Digital Imagery</string>
+    <string name="chap_three">Chapter Three: Frame Animation</string>
+    <string name="chap_two">Chapter Two: Digital Video</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="page_four">Page 114</string>
+    <string name="page_one">Page 10</string>
+    <string name="page_three">Page 89</string>
+    <string name="page_two">Page 47</string>
+    <string name="sketchPad_utility">The PAG SketchPad</string>
+    <string name="table_of_contents">Table of Contents</string>
+    <string name="toc_title">TABLE OF CONTENTS</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

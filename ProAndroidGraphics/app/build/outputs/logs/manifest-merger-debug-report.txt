@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:3:60-85
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:3:36-59
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:4:5-5:68
+	android:largeScreens
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:5:9-36
+	android:xlargeScreens
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:5:37-65
+uses-permission#android.permission.INTERNET
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:8:5-9:54
+	android:name
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:9:9-51
+application
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:10:5-27:23
+	android:label
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:11:36-69
+	android:allowBackup
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:12:42-73
+activity#pro.android.graphics.MainActivity
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:label
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:14:62-94
+	android:exported
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:14:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:18:27-74
+activity#pro.android.graphics.ContentsActivity
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:21:9-22:102
+	android:label
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:22:66-99
+	android:name
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:22:13-65
+activity#pro.android.graphics.BookmarkActivity
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:23:9-24:102
+	android:label
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:24:66-99
+	android:name
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:24:13-65
+activity#pro.android.graphics.SketchPad
+ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:25:9-26:103
+	android:label
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:26:59-100
+	android:name
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml:26:13-58
+uses-sdk
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+		ADDED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml
+		INJECTED from D:\yunshen\carl4sonic\pro-android-graphics\ProAndroidGraphics\app\src\main\AndroidManifest.xml

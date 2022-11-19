@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "pro.android.graphics.app-merged_res-5:/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\yunshen\\carl4sonic\\pro-android-graphics\\ProAndroidGraphics\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "152"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "pro.android.graphics.app-merged_res-5:/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\yunshen\\carl4sonic\\pro-android-graphics\\ProAndroidGraphics\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "pro.android.graphics.app-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\yunshen\\carl4sonic\\pro-android-graphics\\ProAndroidGraphics\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "22,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "1231,1314",
+                        "endLines": "24,27",
+                        "endColumns": "12,12",
+                        "endOffsets": "1309,1381"
+                    }
+                },
+                {
+                    "source": "D:\\yunshen\\carl4sonic\\pro-android-graphics\\ProAndroidGraphics\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,2,19,17,18,5,12,9,11,10,7,16,13,15,14,6,4,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "415,57,1069,945,1004,233,687,484,616,551,361,897,757,849,803,296,168,111",
+                        "endColumns": "67,52,66,57,63,61,68,65,69,63,52,46,44,46,44,63,63,55",
+                        "endOffsets": "478,105,1131,998,1063,290,751,545,681,610,409,939,797,891,843,355,227,162"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,237,290,357,415,479,541,610,676,746,810,863,910,955,1002,1047,1111,1175",
+                        "endColumns": "67,52,66,57,63,61,68,65,69,63,52,46,44,46,44,63,63,55",
+                        "endOffsets": "232,285,352,410,474,536,605,671,741,805,858,905,950,997,1042,1106,1170,1226"
+                    }
+                },
+                {
+                    "source": "D:\\yunshen\\carl4sonic\\pro-android-graphics\\ProAndroidGraphics\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "pro.android.graphics.app-merged_res-5:/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\yunshen\\carl4sonic\\pro-android-graphics\\ProAndroidGraphics\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "206",
+                        "endColumns": "58",
+                        "endOffsets": "260"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

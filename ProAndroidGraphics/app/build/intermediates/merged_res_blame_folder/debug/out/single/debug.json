@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag7.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag7.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag0.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag0.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-hdpi_bookmark0.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-hdpi/bookmark0.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-ldpi_imagebutton_hovered.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-ldpi/imagebutton_hovered.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-mdpi_imagebutton_hovered.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-mdpi/imagebutton_hovered.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-ldpi_pag_icon.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-ldpi/pag_icon.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-hdpi_imagebutton_pressed.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-hdpi/imagebutton_pressed.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-hdpi_imagebutton_normal.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-hdpi/imagebutton_normal.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/anim_pag_anim.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/anim/pag_anim.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-hdpi_imagebutton_hovered.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-hdpi/imagebutton_hovered.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/raw_pag800x480landscape.mp4.flat",
+        "source": "pro.android.graphics.app-main-7:/raw/pag800x480landscape.mp4"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable_bookmark_states.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable/bookmark_states.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-mdpi_imagebutton_pressed.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-mdpi/imagebutton_pressed.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable_trans_contents.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable/trans_contents.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-ldpi_imagebutton_pressed.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-ldpi/imagebutton_pressed.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_pag_icon.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/pag_icon.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable_contents_layers.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable/contents_layers.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag4.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag4.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-hdpi_imagebutton_focused.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-hdpi/imagebutton_focused.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-ldpi_imagebutton_focused.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-ldpi/imagebutton_focused.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag8.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag8.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-mdpi_pag_icon.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-mdpi/pag_icon.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag1.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag1.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/layout_activity_contents.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/layout/activity_contents.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag5.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag5.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_cloudsky.jpg.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/cloudsky.jpg"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_bookmarks0.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/bookmarks0.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_imagebutton_pressed.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/imagebutton_pressed.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-mdpi_imagebutton_normal.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-mdpi/imagebutton_normal.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/layout_activity_bookmark.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/layout/activity_bookmark.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable_anim_intro.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable/anim_intro.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_bookmark0.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/bookmark0.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-mdpi_bookmark0.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-mdpi/bookmark0.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_imagebutton_hovered.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/imagebutton_hovered.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag2.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag2.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/raw_pag480x800portrait.mp4.flat",
+        "source": "pro.android.graphics.app-main-7:/raw/pag480x800portrait.mp4"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-mdpi_imagebutton_focused.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-mdpi/imagebutton_focused.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable_ninepatchframe.9.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable/ninepatchframe.9.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag6.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag6.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-ldpi_imagebutton_normal.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-ldpi/imagebutton_normal.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable_contents_shape.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable/contents_shape.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-ldpi_bookmark0.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-ldpi/bookmark0.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag3.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag3.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/menu_main.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/menu/main.xml"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-hdpi_pag_icon.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-hdpi/pag_icon.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_imagebutton_focused.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/imagebutton_focused.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xhdpi_imagebutton_normal.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xhdpi/imagebutton_normal.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/drawable-xxhdpi_pag_icon.png.flat",
+        "source": "pro.android.graphics.app-main-7:/drawable-xxhdpi/pag_icon.png"
+    },
+    {
+        "merged": "pro.android.graphics.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "pro.android.graphics.app-main-7:/layout/activity_main.xml"
+    }
+]

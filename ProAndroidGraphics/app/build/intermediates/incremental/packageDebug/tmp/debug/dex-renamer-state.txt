@@ -1,0 +1,7 @@
+#Sat Nov 19 14:36:23 CST 2022
+base.1=D\:\\yunshen\\carl4sonic\\pro-android-graphics\\ProAndroidGraphics\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+path.1=2/classes.dex
+base.0=D\:\\yunshen\\carl4sonic\\pro-android-graphics\\ProAndroidGraphics\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
